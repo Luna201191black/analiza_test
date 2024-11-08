@@ -1,2 +1,2 @@
 # analiza_test
-Analiza atestowa-ćwiczenie 8 listopada 2024
+Analiza atestowa-ćwiczenie 8 listopada 
